@@ -1,1 +1,1 @@
-# lnct_coder_club
+# LNCT_CODER_CLUB
